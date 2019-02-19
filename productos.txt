@@ -1,0 +1,6 @@
+Producto1, 10, 15, 21, NR
+Producto2, 20, 0, 3, 1
+Producto3, 4, 8, 0, 14
+Producto8, 1, 2, NR, 10
+Producto12, NR, 2, NR, 23
+Producto23, 5, 12, NR, 9
